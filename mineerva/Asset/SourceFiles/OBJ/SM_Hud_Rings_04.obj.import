@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://domjq0ocno3o2"
+path="res://.godot/imported/SM_Hud_Rings_04.obj-56877a75ca81d9942c4607821da10fdb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Hud_Rings_04.obj-56877a75ca81d9942c4607821da10fdb.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Hud_Rings_04.obj"
+dest_files=["res://.godot/imported/SM_Hud_Rings_04.obj-56877a75ca81d9942c4607821da10fdb.mesh", "res://.godot/imported/SM_Hud_Rings_04.obj-56877a75ca81d9942c4607821da10fdb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

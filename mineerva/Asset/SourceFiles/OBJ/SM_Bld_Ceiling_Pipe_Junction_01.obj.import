@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ca4fyfao6uk2x"
+path="res://.godot/imported/SM_Bld_Ceiling_Pipe_Junction_01.obj-4379ba2084389ba694344b90cc9d421a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Ceiling_Pipe_Junction_01.obj-4379ba2084389ba694344b90cc9d421a.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Ceiling_Pipe_Junction_01.obj"
+dest_files=["res://.godot/imported/SM_Bld_Ceiling_Pipe_Junction_01.obj-4379ba2084389ba694344b90cc9d421a.mesh", "res://.godot/imported/SM_Bld_Ceiling_Pipe_Junction_01.obj-4379ba2084389ba694344b90cc9d421a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

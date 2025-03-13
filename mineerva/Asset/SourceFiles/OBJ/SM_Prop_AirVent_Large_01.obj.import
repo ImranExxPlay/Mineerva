@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqw6t2p3pn14d"
+path="res://.godot/imported/SM_Prop_AirVent_Large_01.obj-f5859a26f0030f824fe0308353850a6f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_AirVent_Large_01.obj-f5859a26f0030f824fe0308353850a6f.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_AirVent_Large_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_AirVent_Large_01.obj-f5859a26f0030f824fe0308353850a6f.mesh", "res://.godot/imported/SM_Prop_AirVent_Large_01.obj-f5859a26f0030f824fe0308353850a6f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

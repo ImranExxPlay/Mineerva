@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dt0o2tw6qm7ci"
+path="res://.godot/imported/SM_Ship_Stealth_04.obj-91d6203f1f91c6307deea15db01d031a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Ship_Stealth_04.obj-91d6203f1f91c6307deea15db01d031a.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Ship_Stealth_04.obj"
+dest_files=["res://.godot/imported/SM_Ship_Stealth_04.obj-91d6203f1f91c6307deea15db01d031a.mesh", "res://.godot/imported/SM_Ship_Stealth_04.obj-91d6203f1f91c6307deea15db01d031a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

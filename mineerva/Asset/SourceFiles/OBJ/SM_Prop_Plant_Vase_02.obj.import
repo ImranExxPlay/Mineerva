@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dul3rbtb5sjse"
+path="res://.godot/imported/SM_Prop_Plant_Vase_02.obj-9be07495b20c6854730030d77aad61f9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Plant_Vase_02.obj-9be07495b20c6854730030d77aad61f9.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Plant_Vase_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_Plant_Vase_02.obj-9be07495b20c6854730030d77aad61f9.mesh", "res://.godot/imported/SM_Prop_Plant_Vase_02.obj-9be07495b20c6854730030d77aad61f9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

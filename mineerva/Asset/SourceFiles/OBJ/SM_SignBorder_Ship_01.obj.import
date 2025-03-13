@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bag5eenr60jqd"
+path="res://.godot/imported/SM_SignBorder_Ship_01.obj-2b1502d96fba902f8217d8c3387ebfb2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_SignBorder_Ship_01.obj-2b1502d96fba902f8217d8c3387ebfb2.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_SignBorder_Ship_01.obj"
+dest_files=["res://.godot/imported/SM_SignBorder_Ship_01.obj-2b1502d96fba902f8217d8c3387ebfb2.mesh", "res://.godot/imported/SM_SignBorder_Ship_01.obj-2b1502d96fba902f8217d8c3387ebfb2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

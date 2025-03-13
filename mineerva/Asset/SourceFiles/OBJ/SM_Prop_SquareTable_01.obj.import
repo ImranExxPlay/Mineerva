@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cbeueww8nqnw1"
+path="res://.godot/imported/SM_Prop_SquareTable_01.obj-603005c1e40fc8a82455ee7188af4cde.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_SquareTable_01.obj-603005c1e40fc8a82455ee7188af4cde.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_SquareTable_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_SquareTable_01.obj-603005c1e40fc8a82455ee7188af4cde.mesh", "res://.godot/imported/SM_Prop_SquareTable_01.obj-603005c1e40fc8a82455ee7188af4cde.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

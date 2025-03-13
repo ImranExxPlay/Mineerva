@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cu0tk57opjwu0"
+path="res://.godot/imported/SM_Prop_FoodTray_01.obj-3599bef4b2931cf74e0490549cd9531f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_FoodTray_01.obj-3599bef4b2931cf74e0490549cd9531f.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_FoodTray_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_FoodTray_01.obj-3599bef4b2931cf74e0490549cd9531f.mesh", "res://.godot/imported/SM_Prop_FoodTray_01.obj-3599bef4b2931cf74e0490549cd9531f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

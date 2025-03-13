@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b3j80sy5q6n0k"
+path="res://.godot/imported/SM_Chr_Attach_Crew_Female_Hair_01.obj-e60c9d7bebb56d498b1ec6e252bc70e0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Crew_Female_Hair_01.obj-e60c9d7bebb56d498b1ec6e252bc70e0.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Chr_Attach_Crew_Female_Hair_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Crew_Female_Hair_01.obj-e60c9d7bebb56d498b1ec6e252bc70e0.mesh", "res://.godot/imported/SM_Chr_Attach_Crew_Female_Hair_01.obj-e60c9d7bebb56d498b1ec6e252bc70e0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

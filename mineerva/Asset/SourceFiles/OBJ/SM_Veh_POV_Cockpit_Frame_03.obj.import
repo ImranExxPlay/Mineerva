@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b71q85w7rm4qm"
+path="res://.godot/imported/SM_Veh_POV_Cockpit_Frame_03.obj-0839aea29155c786ddbcff71c91eea34.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_POV_Cockpit_Frame_03.obj-0839aea29155c786ddbcff71c91eea34.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Veh_POV_Cockpit_Frame_03.obj"
+dest_files=["res://.godot/imported/SM_Veh_POV_Cockpit_Frame_03.obj-0839aea29155c786ddbcff71c91eea34.mesh", "res://.godot/imported/SM_Veh_POV_Cockpit_Frame_03.obj-0839aea29155c786ddbcff71c91eea34.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

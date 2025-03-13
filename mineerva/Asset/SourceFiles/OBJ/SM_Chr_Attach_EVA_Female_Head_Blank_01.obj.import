@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cgc7yu6leqpis"
+path="res://.godot/imported/SM_Chr_Attach_EVA_Female_Head_Blank_01.obj-94992fd1e7de2bcd0a7532eba33d6846.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_EVA_Female_Head_Blank_01.obj-94992fd1e7de2bcd0a7532eba33d6846.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Chr_Attach_EVA_Female_Head_Blank_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_EVA_Female_Head_Blank_01.obj-94992fd1e7de2bcd0a7532eba33d6846.mesh", "res://.godot/imported/SM_Chr_Attach_EVA_Female_Head_Blank_01.obj-94992fd1e7de2bcd0a7532eba33d6846.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1dn80dijv17k"
+path="res://.godot/imported/SM_Prop_Crate_Ammo_02.obj-7ac57bdbda8b822acf838f3fe0a507bf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Crate_Ammo_02.obj-7ac57bdbda8b822acf838f3fe0a507bf.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Crate_Ammo_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_Crate_Ammo_02.obj-7ac57bdbda8b822acf838f3fe0a507bf.mesh", "res://.godot/imported/SM_Prop_Crate_Ammo_02.obj-7ac57bdbda8b822acf838f3fe0a507bf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

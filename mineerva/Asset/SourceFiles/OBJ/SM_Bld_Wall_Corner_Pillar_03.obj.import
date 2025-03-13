@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqm6udup22a7c"
+path="res://.godot/imported/SM_Bld_Wall_Corner_Pillar_03.obj-c73f9b9c97debe514176371d5509328c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Wall_Corner_Pillar_03.obj-c73f9b9c97debe514176371d5509328c.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Wall_Corner_Pillar_03.obj"
+dest_files=["res://.godot/imported/SM_Bld_Wall_Corner_Pillar_03.obj-c73f9b9c97debe514176371d5509328c.mesh", "res://.godot/imported/SM_Bld_Wall_Corner_Pillar_03.obj-c73f9b9c97debe514176371d5509328c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

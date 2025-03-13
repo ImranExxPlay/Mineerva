@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://eh65mdx2up38"
+path="res://.godot/imported/SM_Prop_Detail_Keypad_01.obj-a921507346125a611b1e7fcbeb4443b0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Detail_Keypad_01.obj-a921507346125a611b1e7fcbeb4443b0.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Detail_Keypad_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Detail_Keypad_01.obj-a921507346125a611b1e7fcbeb4443b0.mesh", "res://.godot/imported/SM_Prop_Detail_Keypad_01.obj-a921507346125a611b1e7fcbeb4443b0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

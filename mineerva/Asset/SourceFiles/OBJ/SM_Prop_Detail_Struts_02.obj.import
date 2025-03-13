@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dg2g44i45n0u6"
+path="res://.godot/imported/SM_Prop_Detail_Struts_02.obj-848c33bcfc5a8e8d8ea708317dcd5da1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Detail_Struts_02.obj-848c33bcfc5a8e8d8ea708317dcd5da1.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Detail_Struts_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_Detail_Struts_02.obj-848c33bcfc5a8e8d8ea708317dcd5da1.mesh", "res://.godot/imported/SM_Prop_Detail_Struts_02.obj-848c33bcfc5a8e8d8ea708317dcd5da1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cr0c8f3uyemgq"
+path="res://.godot/imported/SM_Env_Astroid_03.obj-de6e410cd66a38ad8e8755f1513bd13e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Env_Astroid_03.obj-de6e410cd66a38ad8e8755f1513bd13e.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Env_Astroid_03.obj"
+dest_files=["res://.godot/imported/SM_Env_Astroid_03.obj-de6e410cd66a38ad8e8755f1513bd13e.mesh", "res://.godot/imported/SM_Env_Astroid_03.obj-de6e410cd66a38ad8e8755f1513bd13e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

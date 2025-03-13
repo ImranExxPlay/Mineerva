@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cg4h2sfj8kwxg"
+path="res://.godot/imported/SM_Bld_Floor_Small_Walkway_02.obj-b473fee238b546f5cf914a1e0bad310b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Floor_Small_Walkway_02.obj-b473fee238b546f5cf914a1e0bad310b.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Floor_Small_Walkway_02.obj"
+dest_files=["res://.godot/imported/SM_Bld_Floor_Small_Walkway_02.obj-b473fee238b546f5cf914a1e0bad310b.mesh", "res://.godot/imported/SM_Bld_Floor_Small_Walkway_02.obj-b473fee238b546f5cf914a1e0bad310b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

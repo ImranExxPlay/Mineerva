@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cj351od3tqpy0"
+path="res://.godot/imported/SM_Hud_Text_Arrow_01.obj-815b076ba1c7a696a0551445261bc38c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Hud_Text_Arrow_01.obj-815b076ba1c7a696a0551445261bc38c.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Hud_Text_Arrow_01.obj"
+dest_files=["res://.godot/imported/SM_Hud_Text_Arrow_01.obj-815b076ba1c7a696a0551445261bc38c.mesh", "res://.godot/imported/SM_Hud_Text_Arrow_01.obj-815b076ba1c7a696a0551445261bc38c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ea1dj1i5ymrd"
+path="res://.godot/imported/SM_Bld_Ceiling_Pipes_Turn_L_01.obj-2da89cfdfcd8bbd297ea022dfc524898.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Ceiling_Pipes_Turn_L_01.obj-2da89cfdfcd8bbd297ea022dfc524898.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Ceiling_Pipes_Turn_L_01.obj"
+dest_files=["res://.godot/imported/SM_Bld_Ceiling_Pipes_Turn_L_01.obj-2da89cfdfcd8bbd297ea022dfc524898.mesh", "res://.godot/imported/SM_Bld_Ceiling_Pipes_Turn_L_01.obj-2da89cfdfcd8bbd297ea022dfc524898.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

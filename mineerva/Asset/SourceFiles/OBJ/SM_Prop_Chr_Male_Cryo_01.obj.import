@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chgf3jwl7uvcq"
+path="res://.godot/imported/SM_Prop_Chr_Male_Cryo_01.obj-29be4914afb5a55e3b16e065b4bf1da0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Chr_Male_Cryo_01.obj-29be4914afb5a55e3b16e065b4bf1da0.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Chr_Male_Cryo_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Chr_Male_Cryo_01.obj-29be4914afb5a55e3b16e065b4bf1da0.mesh", "res://.godot/imported/SM_Prop_Chr_Male_Cryo_01.obj-29be4914afb5a55e3b16e065b4bf1da0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

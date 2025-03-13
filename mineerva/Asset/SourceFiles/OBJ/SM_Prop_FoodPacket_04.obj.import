@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://daylvw6inbd47"
+path="res://.godot/imported/SM_Prop_FoodPacket_04.obj-2aacce75f5b6bc915b37ab881d20b84c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_FoodPacket_04.obj-2aacce75f5b6bc915b37ab881d20b84c.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_FoodPacket_04.obj"
+dest_files=["res://.godot/imported/SM_Prop_FoodPacket_04.obj-2aacce75f5b6bc915b37ab881d20b84c.mesh", "res://.godot/imported/SM_Prop_FoodPacket_04.obj-2aacce75f5b6bc915b37ab881d20b84c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

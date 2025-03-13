@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://2ecbd87l3drc"
+path="res://.godot/imported/SM_Bld_Wall_Mechanical_02.obj-6033c6c1a2061b119512ff6298c2fe5a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Wall_Mechanical_02.obj-6033c6c1a2061b119512ff6298c2fe5a.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Wall_Mechanical_02.obj"
+dest_files=["res://.godot/imported/SM_Bld_Wall_Mechanical_02.obj-6033c6c1a2061b119512ff6298c2fe5a.mesh", "res://.godot/imported/SM_Bld_Wall_Mechanical_02.obj-6033c6c1a2061b119512ff6298c2fe5a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

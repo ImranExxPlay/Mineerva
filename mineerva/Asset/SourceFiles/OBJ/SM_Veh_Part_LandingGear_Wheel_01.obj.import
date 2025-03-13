@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dyo1m572cxnak"
+path="res://.godot/imported/SM_Veh_Part_LandingGear_Wheel_01.obj-1ca93f67985423b2ddaae71c1ee61dcb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Part_LandingGear_Wheel_01.obj-1ca93f67985423b2ddaae71c1ee61dcb.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Veh_Part_LandingGear_Wheel_01.obj"
+dest_files=["res://.godot/imported/SM_Veh_Part_LandingGear_Wheel_01.obj-1ca93f67985423b2ddaae71c1ee61dcb.mesh", "res://.godot/imported/SM_Veh_Part_LandingGear_Wheel_01.obj-1ca93f67985423b2ddaae71c1ee61dcb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

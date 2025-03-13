@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://518ovrijlu7l"
+path="res://.godot/imported/SM_Bld_Bridge_Console_02.obj-ff0e74e9cee29132005c65a00a61bcc2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Bridge_Console_02.obj-ff0e74e9cee29132005c65a00a61bcc2.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Bridge_Console_02.obj"
+dest_files=["res://.godot/imported/SM_Bld_Bridge_Console_02.obj-ff0e74e9cee29132005c65a00a61bcc2.mesh", "res://.godot/imported/SM_Bld_Bridge_Console_02.obj-ff0e74e9cee29132005c65a00a61bcc2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

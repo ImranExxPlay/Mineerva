@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1n3lhmb26eh6"
+path="res://.godot/imported/SM_Sign_LockerRoom_01.obj-f9378207f5186c33706f77c7a7e0d939.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Sign_LockerRoom_01.obj-f9378207f5186c33706f77c7a7e0d939.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Sign_LockerRoom_01.obj"
+dest_files=["res://.godot/imported/SM_Sign_LockerRoom_01.obj-f9378207f5186c33706f77c7a7e0d939.mesh", "res://.godot/imported/SM_Sign_LockerRoom_01.obj-f9378207f5186c33706f77c7a7e0d939.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

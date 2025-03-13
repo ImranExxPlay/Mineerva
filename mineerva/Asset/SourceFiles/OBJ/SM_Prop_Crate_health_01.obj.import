@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ckhsen12ej0x"
+path="res://.godot/imported/SM_Prop_Crate_health_01.obj-d3a393d8fb8080b23613e231bd1b9ca2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Crate_health_01.obj-d3a393d8fb8080b23613e231bd1b9ca2.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Crate_health_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Crate_health_01.obj-d3a393d8fb8080b23613e231bd1b9ca2.mesh", "res://.godot/imported/SM_Prop_Crate_health_01.obj-d3a393d8fb8080b23613e231bd1b9ca2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

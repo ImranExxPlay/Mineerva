@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://04c56o7apcpc"
+path="res://.godot/imported/SM_Veh_Part_Engine_04.obj-39bb3803a6e7437afcfd1fb906db336c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Part_Engine_04.obj-39bb3803a6e7437afcfd1fb906db336c.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Veh_Part_Engine_04.obj"
+dest_files=["res://.godot/imported/SM_Veh_Part_Engine_04.obj-39bb3803a6e7437afcfd1fb906db336c.mesh", "res://.godot/imported/SM_Veh_Part_Engine_04.obj-39bb3803a6e7437afcfd1fb906db336c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

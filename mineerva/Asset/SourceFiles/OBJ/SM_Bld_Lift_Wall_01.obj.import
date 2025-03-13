@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cn3go03oor25d"
+path="res://.godot/imported/SM_Bld_Lift_Wall_01.obj-de6cbb131efb0cb9b43966bba8ee3be8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Lift_Wall_01.obj-de6cbb131efb0cb9b43966bba8ee3be8.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Lift_Wall_01.obj"
+dest_files=["res://.godot/imported/SM_Bld_Lift_Wall_01.obj-de6cbb131efb0cb9b43966bba8ee3be8.mesh", "res://.godot/imported/SM_Bld_Lift_Wall_01.obj-de6cbb131efb0cb9b43966bba8ee3be8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

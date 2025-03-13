@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4kt5bsdpd4bv"
+path="res://.godot/imported/SM_Prop_Missile_02.obj-af5c7833a2b292d51dbae2cf393f53ab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Missile_02.obj-af5c7833a2b292d51dbae2cf393f53ab.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Missile_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_Missile_02.obj-af5c7833a2b292d51dbae2cf393f53ab.mesh", "res://.godot/imported/SM_Prop_Missile_02.obj-af5c7833a2b292d51dbae2cf393f53ab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

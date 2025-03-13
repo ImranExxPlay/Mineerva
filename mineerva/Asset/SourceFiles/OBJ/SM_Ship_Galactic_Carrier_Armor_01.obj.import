@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7i5knu6bnqlh"
+path="res://.godot/imported/SM_Ship_Galactic_Carrier_Armor_01.obj-0e1e6734c7b0475c3ff6b4b0bb8e1d50.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Ship_Galactic_Carrier_Armor_01.obj-0e1e6734c7b0475c3ff6b4b0bb8e1d50.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Ship_Galactic_Carrier_Armor_01.obj"
+dest_files=["res://.godot/imported/SM_Ship_Galactic_Carrier_Armor_01.obj-0e1e6734c7b0475c3ff6b4b0bb8e1d50.mesh", "res://.godot/imported/SM_Ship_Galactic_Carrier_Armor_01.obj-0e1e6734c7b0475c3ff6b4b0bb8e1d50.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://csnqehu7initj"
+path="res://.godot/imported/SM_Bld_Hydroponics_BaseFloor_01.obj-9d9732cd7a53cf073540ea8f52d9fa6c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Hydroponics_BaseFloor_01.obj-9d9732cd7a53cf073540ea8f52d9fa6c.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Hydroponics_BaseFloor_01.obj"
+dest_files=["res://.godot/imported/SM_Bld_Hydroponics_BaseFloor_01.obj-9d9732cd7a53cf073540ea8f52d9fa6c.mesh", "res://.godot/imported/SM_Bld_Hydroponics_BaseFloor_01.obj-9d9732cd7a53cf073540ea8f52d9fa6c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

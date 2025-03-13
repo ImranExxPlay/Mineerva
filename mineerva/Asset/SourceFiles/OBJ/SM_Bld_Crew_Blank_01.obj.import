@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b1a483hqiy7qk"
+path="res://.godot/imported/SM_Bld_Crew_Blank_01.obj-4efa1fb0a4e32da14e9af658d06f1e52.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Crew_Blank_01.obj-4efa1fb0a4e32da14e9af658d06f1e52.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Crew_Blank_01.obj"
+dest_files=["res://.godot/imported/SM_Bld_Crew_Blank_01.obj-4efa1fb0a4e32da14e9af658d06f1e52.mesh", "res://.godot/imported/SM_Bld_Crew_Blank_01.obj-4efa1fb0a4e32da14e9af658d06f1e52.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

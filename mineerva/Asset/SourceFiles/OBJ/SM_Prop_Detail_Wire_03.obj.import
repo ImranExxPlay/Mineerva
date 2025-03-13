@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d02nexq2dbnxi"
+path="res://.godot/imported/SM_Prop_Detail_Wire_03.obj-db0bf6db180f51e85373d3d4efc0ff42.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Detail_Wire_03.obj-db0bf6db180f51e85373d3d4efc0ff42.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Detail_Wire_03.obj"
+dest_files=["res://.godot/imported/SM_Prop_Detail_Wire_03.obj-db0bf6db180f51e85373d3d4efc0ff42.mesh", "res://.godot/imported/SM_Prop_Detail_Wire_03.obj-db0bf6db180f51e85373d3d4efc0ff42.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

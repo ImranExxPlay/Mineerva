@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://baqliyk7k2twk"
+path="res://.godot/imported/SM_Prop_EscapePod_Hatch_Large_01.obj-2c5954c74b8c5ca1b65d6420b8ff3642.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_EscapePod_Hatch_Large_01.obj-2c5954c74b8c5ca1b65d6420b8ff3642.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_EscapePod_Hatch_Large_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_EscapePod_Hatch_Large_01.obj-2c5954c74b8c5ca1b65d6420b8ff3642.mesh", "res://.godot/imported/SM_Prop_EscapePod_Hatch_Large_01.obj-2c5954c74b8c5ca1b65d6420b8ff3642.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cg5p7pojd6kb4"
+path="res://.godot/imported/SM_Chr_Attach_Mask_Medic_01.obj-1fc4f5610a3a22ba2f1df7acff4a5486.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Mask_Medic_01.obj-1fc4f5610a3a22ba2f1df7acff4a5486.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Chr_Attach_Mask_Medic_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Mask_Medic_01.obj-1fc4f5610a3a22ba2f1df7acff4a5486.mesh", "res://.godot/imported/SM_Chr_Attach_Mask_Medic_01.obj-1fc4f5610a3a22ba2f1df7acff4a5486.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

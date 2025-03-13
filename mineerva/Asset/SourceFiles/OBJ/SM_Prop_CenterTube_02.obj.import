@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxj2k1k6e0ls6"
+path="res://.godot/imported/SM_Prop_CenterTube_02.obj-cfef98d74a98f05a3e236f482063e0eb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_CenterTube_02.obj-cfef98d74a98f05a3e236f482063e0eb.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_CenterTube_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_CenterTube_02.obj-cfef98d74a98f05a3e236f482063e0eb.mesh", "res://.godot/imported/SM_Prop_CenterTube_02.obj-cfef98d74a98f05a3e236f482063e0eb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

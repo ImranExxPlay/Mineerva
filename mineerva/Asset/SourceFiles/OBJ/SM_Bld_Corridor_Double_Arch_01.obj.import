@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://lelht7t7m72y"
+path="res://.godot/imported/SM_Bld_Corridor_Double_Arch_01.obj-48cbfdc0663ef30d7b29243b3f0c6018.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Corridor_Double_Arch_01.obj-48cbfdc0663ef30d7b29243b3f0c6018.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Corridor_Double_Arch_01.obj"
+dest_files=["res://.godot/imported/SM_Bld_Corridor_Double_Arch_01.obj-48cbfdc0663ef30d7b29243b3f0c6018.mesh", "res://.godot/imported/SM_Bld_Corridor_Double_Arch_01.obj-48cbfdc0663ef30d7b29243b3f0c6018.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c1f7pfsldj2yo"
+path="res://.godot/imported/SM_FX_LightBlocker_Cube_02.obj-7bd399715db80fb19de7295bcb1b0afe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_FX_LightBlocker_Cube_02.obj-7bd399715db80fb19de7295bcb1b0afe.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_FX_LightBlocker_Cube_02.obj"
+dest_files=["res://.godot/imported/SM_FX_LightBlocker_Cube_02.obj-7bd399715db80fb19de7295bcb1b0afe.mesh", "res://.godot/imported/SM_FX_LightBlocker_Cube_02.obj-7bd399715db80fb19de7295bcb1b0afe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

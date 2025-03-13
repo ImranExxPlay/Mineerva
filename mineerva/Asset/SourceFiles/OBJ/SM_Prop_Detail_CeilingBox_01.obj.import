@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://sqpy8m7k7eg6"
+path="res://.godot/imported/SM_Prop_Detail_CeilingBox_01.obj-e8415ba54572e6b84b607b9da2ba3484.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Detail_CeilingBox_01.obj-e8415ba54572e6b84b607b9da2ba3484.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Detail_CeilingBox_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Detail_CeilingBox_01.obj-e8415ba54572e6b84b607b9da2ba3484.mesh", "res://.godot/imported/SM_Prop_Detail_CeilingBox_01.obj-e8415ba54572e6b84b607b9da2ba3484.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

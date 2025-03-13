@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgv14dx8ftssx"
+path="res://.godot/imported/SM_Env_Astroid_Large_Holes_01.obj-58cf5f74416c90bfe8a58aaaee9e800c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Env_Astroid_Large_Holes_01.obj-58cf5f74416c90bfe8a58aaaee9e800c.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Env_Astroid_Large_Holes_01.obj"
+dest_files=["res://.godot/imported/SM_Env_Astroid_Large_Holes_01.obj-58cf5f74416c90bfe8a58aaaee9e800c.mesh", "res://.godot/imported/SM_Env_Astroid_Large_Holes_01.obj-58cf5f74416c90bfe8a58aaaee9e800c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

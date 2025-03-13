@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c1oqhgmygff46"
+path="res://.godot/imported/SM_Veh_EscapePod_Large_01.obj-2f4322c17bc865d0a1f87ae301252300.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_EscapePod_Large_01.obj-2f4322c17bc865d0a1f87ae301252300.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Veh_EscapePod_Large_01.obj"
+dest_files=["res://.godot/imported/SM_Veh_EscapePod_Large_01.obj-2f4322c17bc865d0a1f87ae301252300.mesh", "res://.godot/imported/SM_Veh_EscapePod_Large_01.obj-2f4322c17bc865d0a1f87ae301252300.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

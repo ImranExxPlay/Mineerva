@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://eck8yctidqcg"
+path="res://.godot/imported/SM_Prop_DeadZub_01.obj-e1be3f7bd8b80c00ae4ea6f22d4e9075.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_DeadZub_01.obj-e1be3f7bd8b80c00ae4ea6f22d4e9075.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_DeadZub_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_DeadZub_01.obj-e1be3f7bd8b80c00ae4ea6f22d4e9075.mesh", "res://.godot/imported/SM_Prop_DeadZub_01.obj-e1be3f7bd8b80c00ae4ea6f22d4e9075.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chs6w0pvgdxva"
+path="res://.godot/imported/SM_Wep_Rifle_01.obj-0f881ace470ecc1ea8c807dfa01a1a9a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_Rifle_01.obj-0f881ace470ecc1ea8c807dfa01a1a9a.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Wep_Rifle_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_Rifle_01.obj-0f881ace470ecc1ea8c807dfa01a1a9a.mesh", "res://.godot/imported/SM_Wep_Rifle_01.obj-0f881ace470ecc1ea8c807dfa01a1a9a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

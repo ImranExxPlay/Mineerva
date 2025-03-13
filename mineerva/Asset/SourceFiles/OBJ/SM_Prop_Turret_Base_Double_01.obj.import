@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dlboqlp2ogfni"
+path="res://.godot/imported/SM_Prop_Turret_Base_Double_01.obj-1983b0be71b7f20a1527621f9fa4fec2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Turret_Base_Double_01.obj-1983b0be71b7f20a1527621f9fa4fec2.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Turret_Base_Double_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Turret_Base_Double_01.obj-1983b0be71b7f20a1527621f9fa4fec2.mesh", "res://.godot/imported/SM_Prop_Turret_Base_Double_01.obj-1983b0be71b7f20a1527621f9fa4fec2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

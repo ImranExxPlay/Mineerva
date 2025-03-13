@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b8ym87irna6mq"
+path="res://.godot/imported/SM_Prop_Joystick_01.obj-d15524f6b6ee868d41f70764fe5889e1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Joystick_01.obj-d15524f6b6ee868d41f70764fe5889e1.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Joystick_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Joystick_01.obj-d15524f6b6ee868d41f70764fe5889e1.mesh", "res://.godot/imported/SM_Prop_Joystick_01.obj-d15524f6b6ee868d41f70764fe5889e1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvnqkds6lyviv"
+path="res://.godot/imported/SM_Veh_Part_Wing_02.obj-4498e534d73f538d6978cf99b1440e15.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Part_Wing_02.obj-4498e534d73f538d6978cf99b1440e15.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Veh_Part_Wing_02.obj"
+dest_files=["res://.godot/imported/SM_Veh_Part_Wing_02.obj-4498e534d73f538d6978cf99b1440e15.mesh", "res://.godot/imported/SM_Veh_Part_Wing_02.obj-4498e534d73f538d6978cf99b1440e15.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

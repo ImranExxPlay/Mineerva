@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://do5mpwujjyir4"
+path="res://.godot/imported/SM_Prop_Pillar_Detail_01.obj-5ee4315491dd3aff407cf0c07ee9bc92.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Pillar_Detail_01.obj-5ee4315491dd3aff407cf0c07ee9bc92.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Pillar_Detail_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Pillar_Detail_01.obj-5ee4315491dd3aff407cf0c07ee9bc92.mesh", "res://.godot/imported/SM_Prop_Pillar_Detail_01.obj-5ee4315491dd3aff407cf0c07ee9bc92.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

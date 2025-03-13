@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d12478qiig3bj"
+path="res://.godot/imported/SM_Env_Asteroid_04.obj-03b48fb825b41a4acef8681104b64f9e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Env_Asteroid_04.obj-03b48fb825b41a4acef8681104b64f9e.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Env_Asteroid_04.obj"
+dest_files=["res://.godot/imported/SM_Env_Asteroid_04.obj-03b48fb825b41a4acef8681104b64f9e.mesh", "res://.godot/imported/SM_Env_Asteroid_04.obj-03b48fb825b41a4acef8681104b64f9e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

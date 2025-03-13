@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dbmhfilxlk75"
+path="res://.godot/imported/SM_Prop_Engine_Construction_01.obj-c179e8ea98117d6d50625d4930406060.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Engine_Construction_01.obj-c179e8ea98117d6d50625d4930406060.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Engine_Construction_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Engine_Construction_01.obj-c179e8ea98117d6d50625d4930406060.mesh", "res://.godot/imported/SM_Prop_Engine_Construction_01.obj-c179e8ea98117d6d50625d4930406060.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

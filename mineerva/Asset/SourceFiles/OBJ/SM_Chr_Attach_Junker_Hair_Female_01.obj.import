@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5hqkis4v78np"
+path="res://.godot/imported/SM_Chr_Attach_Junker_Hair_Female_01.obj-380fe9b19ee2944fb6e8c075623b6ea2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Junker_Hair_Female_01.obj-380fe9b19ee2944fb6e8c075623b6ea2.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Chr_Attach_Junker_Hair_Female_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Junker_Hair_Female_01.obj-380fe9b19ee2944fb6e8c075623b6ea2.mesh", "res://.godot/imported/SM_Chr_Attach_Junker_Hair_Female_01.obj-380fe9b19ee2944fb6e8c075623b6ea2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

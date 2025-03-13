@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bv6wr53upwrkl"
+path="res://.godot/imported/SM_SignBorder_Shield_01.obj-434b28a9a11c9a91dc65600b72c39b98.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_SignBorder_Shield_01.obj-434b28a9a11c9a91dc65600b72c39b98.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_SignBorder_Shield_01.obj"
+dest_files=["res://.godot/imported/SM_SignBorder_Shield_01.obj-434b28a9a11c9a91dc65600b72c39b98.mesh", "res://.godot/imported/SM_SignBorder_Shield_01.obj-434b28a9a11c9a91dc65600b72c39b98.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

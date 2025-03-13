@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bswwf42fwa46n"
+path="res://.godot/imported/SM_Env_Debris_Shell_03.obj-e09f85235f7fde5e13ad2e3a88393283.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Env_Debris_Shell_03.obj-e09f85235f7fde5e13ad2e3a88393283.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Env_Debris_Shell_03.obj"
+dest_files=["res://.godot/imported/SM_Env_Debris_Shell_03.obj-e09f85235f7fde5e13ad2e3a88393283.mesh", "res://.godot/imported/SM_Env_Debris_Shell_03.obj-e09f85235f7fde5e13ad2e3a88393283.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

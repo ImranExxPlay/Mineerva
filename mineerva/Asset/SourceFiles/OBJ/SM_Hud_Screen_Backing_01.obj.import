@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c15vuqbt0x1ih"
+path="res://.godot/imported/SM_Hud_Screen_Backing_01.obj-2d70c4fc90597735a16620622f7628e2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Hud_Screen_Backing_01.obj-2d70c4fc90597735a16620622f7628e2.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Hud_Screen_Backing_01.obj"
+dest_files=["res://.godot/imported/SM_Hud_Screen_Backing_01.obj-2d70c4fc90597735a16620622f7628e2.mesh", "res://.godot/imported/SM_Hud_Screen_Backing_01.obj-2d70c4fc90597735a16620622f7628e2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

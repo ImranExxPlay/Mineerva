@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuswvyqexod8o"
+path="res://.godot/imported/SM_Ship_Fighter_Heavy_01.obj-3341c5e963f7e9f627f0818e39f39c4b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Ship_Fighter_Heavy_01.obj-3341c5e963f7e9f627f0818e39f39c4b.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Ship_Fighter_Heavy_01.obj"
+dest_files=["res://.godot/imported/SM_Ship_Fighter_Heavy_01.obj-3341c5e963f7e9f627f0818e39f39c4b.mesh", "res://.godot/imported/SM_Ship_Fighter_Heavy_01.obj-3341c5e963f7e9f627f0818e39f39c4b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

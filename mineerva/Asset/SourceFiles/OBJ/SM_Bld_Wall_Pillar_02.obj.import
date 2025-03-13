@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dalsjvhic8mex"
+path="res://.godot/imported/SM_Bld_Wall_Pillar_02.obj-faa62dfc642f41347b14ed6ff75de14b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Wall_Pillar_02.obj-faa62dfc642f41347b14ed6ff75de14b.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Wall_Pillar_02.obj"
+dest_files=["res://.godot/imported/SM_Bld_Wall_Pillar_02.obj-faa62dfc642f41347b14ed6ff75de14b.mesh", "res://.godot/imported/SM_Bld_Wall_Pillar_02.obj-faa62dfc642f41347b14ed6ff75de14b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

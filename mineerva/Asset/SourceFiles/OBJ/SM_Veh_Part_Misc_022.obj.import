@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6k6jhaaenjkw"
+path="res://.godot/imported/SM_Veh_Part_Misc_022.obj-f3a0563240c4edf4b377918caae413ab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Part_Misc_022.obj-f3a0563240c4edf4b377918caae413ab.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Veh_Part_Misc_022.obj"
+dest_files=["res://.godot/imported/SM_Veh_Part_Misc_022.obj-f3a0563240c4edf4b377918caae413ab.mesh", "res://.godot/imported/SM_Veh_Part_Misc_022.obj-f3a0563240c4edf4b377918caae413ab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://liqx8spersr0"
+path="res://.godot/imported/SM_Prop_Buttons_12.obj-38b51347e1c7189a25ca01aeb0bd663c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Buttons_12.obj-38b51347e1c7189a25ca01aeb0bd663c.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Buttons_12.obj"
+dest_files=["res://.godot/imported/SM_Prop_Buttons_12.obj-38b51347e1c7189a25ca01aeb0bd663c.mesh", "res://.godot/imported/SM_Prop_Buttons_12.obj-38b51347e1c7189a25ca01aeb0bd663c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

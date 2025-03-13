@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://k4uqbgsw00e3"
+path="res://.godot/imported/SM_Chr_Attach_Junker_Helmet_01.obj-30d76d5f5c8121b5ee8ec946c815e9b9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Junker_Helmet_01.obj-30d76d5f5c8121b5ee8ec946c815e9b9.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Chr_Attach_Junker_Helmet_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Junker_Helmet_01.obj-30d76d5f5c8121b5ee8ec946c815e9b9.mesh", "res://.godot/imported/SM_Chr_Attach_Junker_Helmet_01.obj-30d76d5f5c8121b5ee8ec946c815e9b9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

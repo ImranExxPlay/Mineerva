@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://car0drhnvnhxl"
+path="res://.godot/imported/SM_Prop_MapTable_Top_01.obj-62718953ee61e5cf0dd4501d4b75a401.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_MapTable_Top_01.obj-62718953ee61e5cf0dd4501d4b75a401.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_MapTable_Top_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_MapTable_Top_01.obj-62718953ee61e5cf0dd4501d4b75a401.mesh", "res://.godot/imported/SM_Prop_MapTable_Top_01.obj-62718953ee61e5cf0dd4501d4b75a401.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

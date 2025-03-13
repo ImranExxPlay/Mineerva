@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bjmjlskcha18y"
+path="res://.godot/imported/SM_SignBorder_Rocket_01.obj-d59b7fa3f7e5ffdf17d1c489fe17a88e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_SignBorder_Rocket_01.obj-d59b7fa3f7e5ffdf17d1c489fe17a88e.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_SignBorder_Rocket_01.obj"
+dest_files=["res://.godot/imported/SM_SignBorder_Rocket_01.obj-d59b7fa3f7e5ffdf17d1c489fe17a88e.mesh", "res://.godot/imported/SM_SignBorder_Rocket_01.obj-d59b7fa3f7e5ffdf17d1c489fe17a88e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

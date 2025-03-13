@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bd6ft6k2ffom0"
+path="res://.godot/imported/SM_Prop_Detail_Lights_02.obj-7d9fc3efcc433cf456edd7ee2768d8e6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Detail_Lights_02.obj-7d9fc3efcc433cf456edd7ee2768d8e6.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Prop_Detail_Lights_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_Detail_Lights_02.obj-7d9fc3efcc433cf456edd7ee2768d8e6.mesh", "res://.godot/imported/SM_Prop_Detail_Lights_02.obj-7d9fc3efcc433cf456edd7ee2768d8e6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c8bq6q4ucvvq3"
+path="res://.godot/imported/SM_Bld_Bridge_Ceiling_01.obj-8fbf0d1fc21bbd186fdd6f1c34399033.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_Bridge_Ceiling_01.obj-8fbf0d1fc21bbd186fdd6f1c34399033.mesh"]
+
+source_file="res://Asset/SourceFiles/OBJ/SM_Bld_Bridge_Ceiling_01.obj"
+dest_files=["res://.godot/imported/SM_Bld_Bridge_Ceiling_01.obj-8fbf0d1fc21bbd186fdd6f1c34399033.mesh", "res://.godot/imported/SM_Bld_Bridge_Ceiling_01.obj-8fbf0d1fc21bbd186fdd6f1c34399033.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,29 @@
+[gd_scene load_steps=6 format=3 uid="uid://cie558boabbpm"]
+
+[ext_resource type="Script" path="res://Script/Galaxy.gd" id="1_u11rr"]
+[ext_resource type="PackedScene" uid="uid://bsvyh348hb8bb" path="res://Scenes/PlayerShip.tscn" id="2_hje72"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_snf52"]
+sky_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
+ground_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
+
+[sub_resource type="Sky" id="Sky_7fi51"]
+sky_material = SubResource("ProceduralSkyMaterial_snf52")
+
+[sub_resource type="Environment" id="Environment_mogow"]
+background_mode = 2
+sky = SubResource("Sky_7fi51")
+tonemap_mode = 2
+
+[node name="Galaxy" type="Node3D"]
+script = ExtResource("1_u11rr")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.866025, -0.433013, 0.25, 0, 0.5, 0.866025, -0.5, 0.75, -0.433013, 0, 0, 0)
+shadow_enabled = true
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_mogow")
+
+[node name="PlayerShip" parent="." instance=ExtResource("2_hje72")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1.299)

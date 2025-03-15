@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Mineerva"
+run/main_scene="res://Scenes/UI/Menu.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[autoload]
+
+Global="*res://Script/Autoload/Global.gd"
 
 [rendering]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qo4o37aktqau"
-path.s3tc="res://.godot/imported/PolygonSciFiSpace_Signs_Texture_01_A.png-fdfd63c47cf6683dd7f5c6df18af0017.s3tc.ctex"
+path.s3tc="res://.godot/imported/PolygonSciFiSpace_Signs_Texture_01_A.png-bee1f2f58ed5feae5a1fcd76ccfcdbb6.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Asset/SourceFiles/textures/PolygonSciFiSpace_Signs_Texture_01_A.png"
-dest_files=["res://.godot/imported/PolygonSciFiSpace_Signs_Texture_01_A.png-fdfd63c47cf6683dd7f5c6df18af0017.s3tc.ctex"]
+source_file="res://Asset/SourceFiles/Textures/PolygonSciFiSpace_Signs_Texture_01_A.png"
+dest_files=["res://.godot/imported/PolygonSciFiSpace_Signs_Texture_01_A.png-bee1f2f58ed5feae5a1fcd76ccfcdbb6.s3tc.ctex"]
 
 [params]
 

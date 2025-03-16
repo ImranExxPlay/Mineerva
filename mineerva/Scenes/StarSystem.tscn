@@ -1,9 +1,14 @@
-[gd_scene load_steps=2 format=3 uid="uid://cehyfb6mit00m"]
+[gd_scene load_steps=3 format=3 uid="uid://cehyfb6mit00m"]
 
-[sub_resource type="SphereMesh" id="SphereMesh_c848w"]
+[ext_resource type="Script" path="res://Script/StarSystem.gd" id="1_rg0ug"]
+
+[sub_resource type="SphereMesh" id="SphereMesh_3f7at"]
 radius = 0.1
 height = 0.2
 
-[node name="MeshInstance3D" type="MeshInstance3D"]
+[node name="StarSystem" type="Node3D"]
 visible = false
-mesh = SubResource("SphereMesh_c848w")
+script = ExtResource("1_rg0ug")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("SphereMesh_3f7at")

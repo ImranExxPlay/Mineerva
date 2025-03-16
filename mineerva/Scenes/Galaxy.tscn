@@ -1,7 +1,11 @@
-[gd_scene load_steps=6 format=3 uid="uid://cie558boabbpm"]
+[gd_scene load_steps=10 format=3 uid="uid://cie558boabbpm"]
 
 [ext_resource type="Script" path="res://Script/Galaxy.gd" id="1_u11rr"]
 [ext_resource type="PackedScene" uid="uid://bsvyh348hb8bb" path="res://Scenes/PlayerShip.tscn" id="2_hje72"]
+[ext_resource type="PackedScene" uid="uid://cl44dil4bclaa" path="res://Scenes/UI/CoordinateInput.tscn" id="3_q87dg"]
+[ext_resource type="FontFile" uid="uid://cjctddr31m14x" path="res://Asset/Font/Righteous-Regular.ttf" id="4_0red0"]
+[ext_resource type="Script" path="res://Script/RepairButton.gd" id="5_1x75y"]
+[ext_resource type="Script" path="res://Script/UI/CrewUI.gd" id="6_r37tq"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_snf52"]
 sky_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
@@ -26,4 +30,82 @@ shadow_enabled = true
 environment = SubResource("Environment_mogow")
 
 [node name="PlayerShip" parent="." instance=ExtResource("2_hje72")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1.299)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 6.33092)
+
+[node name="CoordinateInput" parent="." instance=ExtResource("3_q87dg")]
+visible = false
+
+[node name="DamageUI" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="DamageLabel" type="Label" parent="DamageUI"]
+visible = false
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = 387.5
+offset_right = 716.5
+offset_bottom = 51.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("4_0red0")
+theme_override_font_sizes/font_size = 40
+text = "Shields Damaged!"
+
+[node name="RepairUI" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="RepairButton" type="Button" parent="RepairUI"]
+visible = false
+layout_mode = 0
+offset_left = 10.0
+offset_top = 608.0
+offset_right = 186.0
+offset_bottom = 639.0
+text = "Assign Crew to Repair"
+script = ExtResource("5_1x75y")
+
+[node name="CrewUI" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("6_r37tq")
+
+[node name="WeaponsButton" type="Button" parent="CrewUI"]
+visible = false
+layout_mode = 0
+offset_left = 986.0
+offset_top = 528.0
+offset_right = 1140.0
+offset_bottom = 559.0
+text = "Assign to Weapons"
+
+[node name="EnginesButton" type="Button" parent="CrewUI"]
+visible = false
+layout_mode = 0
+offset_left = 986.0
+offset_top = 568.0
+offset_right = 1140.0
+offset_bottom = 599.0
+text = "Assign to Engines"
+
+[node name="RepairsButton" type="Button" parent="CrewUI"]
+visible = false
+layout_mode = 0
+offset_left = 986.0
+offset_top = 608.0
+offset_right = 1140.0
+offset_bottom = 639.0
+text = "Assign to Repairs"
+
+[connection signal="pressed" from="RepairUI/RepairButton" to="RepairUI/RepairButton" method="_on_pressed"]
+[connection signal="pressed" from="CrewUI/WeaponsButton" to="CrewUI" method="_on_WeaponsButton_pressed"]
+[connection signal="pressed" from="CrewUI/EnginesButton" to="CrewUI" method="_on_EnginesButton_pressed"]
+[connection signal="pressed" from="CrewUI/RepairsButton" to="CrewUI" method="_on_RepairsButton_pressed"]

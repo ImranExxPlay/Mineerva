@@ -1,0 +1,64 @@
+[gd_scene load_steps=4 format=3 uid="uid://cl44dil4bclaa"]
+
+[ext_resource type="Script" path="res://Script/UI/CoordinateInput.gd" id="1_h738h"]
+[ext_resource type="FontFile" uid="uid://cjctddr31m14x" path="res://Asset/Font/Righteous-Regular.ttf" id="1_lstcu"]
+[ext_resource type="FontFile" uid="uid://3nkm0gcgedvk" path="res://Asset/Font/Oswald-Regular.ttf" id="2_bbr5y"]
+
+[node name="CoordinateInput" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_h738h")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -169.5
+offset_right = 169.5
+offset_bottom = 51.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("1_lstcu")
+theme_override_font_sizes/font_size = 40
+text = "Enter Coordinates"
+
+[node name="XInput" type="LineEdit" parent="."]
+layout_mode = 0
+offset_left = 10.0
+offset_top = 608.0
+offset_right = 77.0625
+offset_bottom = 641.0
+theme_override_fonts/font = ExtResource("2_bbr5y")
+placeholder_text = "X"
+
+[node name="YInput" type="LineEdit" parent="."]
+layout_mode = 0
+offset_left = 100.0
+offset_top = 608.0
+offset_right = 167.063
+offset_bottom = 641.0
+theme_override_fonts/font = ExtResource("2_bbr5y")
+placeholder_text = "Y"
+
+[node name="ZInput" type="LineEdit" parent="."]
+layout_mode = 0
+offset_left = 200.0
+offset_top = 608.0
+offset_right = 267.063
+offset_bottom = 641.0
+theme_override_fonts/font = ExtResource("2_bbr5y")
+placeholder_text = "Y"
+
+[node name="Go" type="Button" parent="."]
+layout_mode = 0
+offset_left = 300.0
+offset_top = 608.0
+offset_right = 333.0
+offset_bottom = 639.0
+text = "GO"
+
+[connection signal="pressed" from="Go" to="." method="_on_go_pressed"]

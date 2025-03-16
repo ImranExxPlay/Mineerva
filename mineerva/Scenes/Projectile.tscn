@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://dtlwirq8ogbgv"]
+
+[ext_resource type="Script" path="res://Script/Projectile.gd" id="1_x8edq"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_y4pv1"]
+radius = 0.05
+height = 0.2
+
+[node name="Projectile" type="Node3D"]
+script = ExtResource("1_x8edq")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("CapsuleMesh_y4pv1")
